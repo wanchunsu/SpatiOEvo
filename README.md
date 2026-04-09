@@ -14,7 +14,7 @@ git clone 'https://github.com/wanchunsu/SpatiOEvo'
 
 2. Navigate to the downloaded folder.  
 ```bash
-cd SpatioEvo
+cd SpatiOEvo
 ```
 
 3. Run the instructions script.
