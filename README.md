@@ -2,7 +2,7 @@
 
 Probing spatial selection patterns across residue-resolved H-V PPI interfaces.
 
-Preprint: https://doi.org/10.64898/2026.04.10.717550
+Citation: https://doi.org/10.64898/2026.04.10.717550
 
 ## Requirements
 * Python 3.9.12
