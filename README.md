@@ -2,6 +2,8 @@
 
 Probing spatial selection patterns across residue-resolved H-V PPI interfaces.
 
+Preprint: https://doi.org/10.64898/2026.04.10.717550
+
 ## Requirements
 * Python 3.9.12
 * Dependencies listed in [`dependencies.txt`](https://github.com/wanchunsu/SpatiOEvo/blob/main/dependencies.txt)
@@ -23,6 +25,8 @@ cd scripts
 bash instructions.bash
 ```
 **Note**: The working directory is `scripts` and all required data and results are stored in the `data` directory. 
+
+
 
 
 
